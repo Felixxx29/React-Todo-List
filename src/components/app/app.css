@@ -1,0 +1,16 @@
+.todo-app {
+    margin: 0 auto;
+    max-width: 520px;
+    padding-top: 2rem;
+
+}
+
+.top-panel {
+    margin: 1rem 0;
+}
+
+body {
+    background: linear-gradient(to left, #131d2a, #3a64bd);
+    background-repeat: no-repeat;
+    height: 100vh;
+}
